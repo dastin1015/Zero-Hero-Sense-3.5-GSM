@@ -4,53 +4,8 @@
     <module name="locale">
       <function>
         <set name="single">
-          <item name="total_list">cs_CZ;de_DE;en_AU;en_GB;en_SG;en_US;es_US;fr;it;ja;nl_NL;pl;ru;zh_CN;zh_TW;de_AT;de_CH;de_DE;de_GB;de_IE;de_PL;en_AT;en_CH;en_DE;en_GB;en_IE;en_PL;es_GB;es_IE;es_PL;fr_AT;fr_CH;fr_DE;fr_GB;fr_IE;fr_PL;it_AT;it_CH;it_DE;it_GB;it_IE;it_PL;pl_GB;pl_IE;pl_PL;</item>
-          <item name="cs_CZ" type="boolean">yes</item>
-	  <item name="de_DE" type="boolean">yes</item>
-	  <item name="en_AU" type="boolean">yes</item>
-	  <item name="en_GB" type="boolean">yes</item>
-	  <item name="en_SG" type="boolean">yes</item>
-	  <item name="en_US" type="boolean">yes</item>
-	  <item name="es_US" type="boolean">yes</item>
-	  <item name="fr" type="boolean">yes</item>
-	  <item name="it" type="boolean">yes</item>
-	  <item name="ja" type="boolean">yes</item>
-	  <item name="nl_NL" type="boolean">yes</item>
-	  <item name="pl" type="boolean">yes</item>
-	  <item name="ru" type="boolean">yes</item>
-	  <item name="zh_CN" type="boolean">yes</item>
-	  <item name="zh_TW" type="boolean">yes</item>
-          <item type="boolean" name="de_AT">yes</item>
-          <item type="boolean" name="de_CH">yes</item>
-          <item type="boolean" name="de_DE">yes</item>
-          <item type="boolean" name="de_GB">yes</item>
-          <item type="boolean" name="de_IE">yes</item>
-          <item type="boolean" name="de_PL">yes</item>
-          <item type="boolean" name="en_AT">yes</item>
-          <item type="boolean" name="en_CH">yes</item>
-          <item type="boolean" name="en_DE">yes</item>
-          <item type="boolean" name="en_GB">yes</item>
-          <item type="boolean" name="en_IE">yes</item>
-          <item type="boolean" name="en_PL">yes</item>
-          <item type="boolean" name="es_GB">yes</item>
-          <item type="boolean" name="es_IE">yes</item>
-          <item type="boolean" name="es_PL">yes</item>
-          <item type="boolean" name="fr_AT">yes</item>
-          <item type="boolean" name="fr_CH">yes</item>
-          <item type="boolean" name="fr_DE">yes</item>
-          <item type="boolean" name="fr_GB">yes</item>
-          <item type="boolean" name="fr_IE">yes</item>
-          <item type="boolean" name="fr_PL">yes</item>
-          <item type="boolean" name="it_AT">yes</item>
-          <item type="boolean" name="it_CH">yes</item>
-          <item type="boolean" name="it_DE">yes</item>
-          <item type="boolean" name="it_GB">yes</item>
-          <item type="boolean" name="it_IE">yes</item>
-          <item type="boolean" name="it_PL">yes</item>
-          <item type="boolean" name="pl_GB">yes</item>
-          <item type="boolean" name="pl_IE">yes</item>
-          <item type="boolean" name="pl_PL">yes</item>
-	  <item name="defeault" >en_US</item>
+          <item name="total_list">en_US;</item>
+          <item type="boolean" name="en_US">yes</item>
         </set>
       </function>
     </module>
@@ -103,7 +58,7 @@
     <module name="deviceData">
       <function>
         <set name="single">
-          <item name="device_name">HTC Hero</item>
+          <item name="device_name">HTC Hero CDMA</item>
         </set>
       </function>
     </module>
